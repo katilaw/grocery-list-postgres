@@ -1,0 +1,8 @@
+---
+title: "Grocery List using Postgres"
+type: "challenge"
+description: "Display and append to a list of groceries stored in a Postgres database."
+visibility: "assign"
+tags: "system-check, sql"
+ignore:
+- "grocery-list-postgres.md"
